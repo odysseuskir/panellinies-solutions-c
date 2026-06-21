@@ -11,7 +11,7 @@
 
 ## Πνευματικά δικαιώματα
 
-Όπως ορίζει το αρχείο άδειας, οι λύσεις είναι δημόσιο κτήμα (public domain). Διατηρούνται μόνο τα ηθικά δικαιώματα του δημιουργού και κάθε συνεισφορέα. Το παρών περιεχόμενο παρέχεται χωρίς καμία εγγύηση.
+Όπως ορίζει το [αρχείο άδειας](https://github.com/odysseuskir/website/blob/main/LICENSE.txt), οι λύσεις είναι δημόσιο κτήμα (public domain). Διατηρούνται μόνο τα ηθικά δικαιώματα του δημιουργού και κάθε συνεισφορέα. Το παρών περιεχόμενο παρέχεται χωρίς καμία εγγύηση.
 
 ---
 
@@ -28,4 +28,6 @@ This repository contains the solutions to past questions of the national univers
 
 ## Copyright
 
-As per the licence, these solutions are in the public domain. The moral rights of the creator and any contributor are retained. This content is provided with absolutely no warranties.
+As per the [licence](https://github.com/odysseuskir/website/blob/main/LICENSE.txt), these solutions are in the public domain. The moral rights of the creator and any contributor are retained. This content is provided with absolutely no warranties.
+
+![Developed by humans, not AI](https://raw.githubusercontent.com/odysseuskir/panellinies-solutions-c/refs/heads/main/notbyai.png)
